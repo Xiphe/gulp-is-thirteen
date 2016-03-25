@@ -1,0 +1,15 @@
+{
+  "name": "gulp-is-thirteen",
+  "version": "0.0.0",
+  "description": "gulp plugin version of is-thirteen",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hannes Diercks <gulp-is-thirteen@xiphe.net>",
+  "license": "WTFPL",
+  "dependencies": {
+    "gulp-util": "^3.0.7",
+    "is-thirteen": "^2.0.0"
+  }
+}
